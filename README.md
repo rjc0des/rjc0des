@@ -1,80 +1,86 @@
-# 👋 Hi, I'm Rohith Jayaraj
+<h1 align="center">👋 Hey, I'm Rohith Jayaraj</h1>
+<p align="center">🧑‍💻 Frontend Developer | ⚙️ Automation Enthusiast | 🚀 Building dev-first tools</p>
 
-🎯 Frontend Developer | Building modern UIs and automation tools with React, Next.js, and n8n
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-%230A66C2?style=flat&logo=vercel&logoColor=white)](https://rohith-jayaraj.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohithjayaraj/)
-![Visitor Badge](https://komarev.com/ghpvc/?username=rjc0des&color=blue)
-
----
-
-## 🔥 About Me
-I'm a frontend developer passionate about building fast, accessible, and scalable web applications. I combine clean UI with automation to create meaningful, user-first experiences.
-
-Currently focused on:
-- Frontend Engineering using **Next.js** + **Tailwind**
-- Lightweight **AI tools** and **task automation** via **n8n** & **Make.com**
-- Exploring DevOps with **DigitalOcean**, **AWS**, and **CI/CD**
+<p align="center">
+  <a href="https://rohith-jayaraj.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/rohithjayaraj/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-000?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:rjc0des@gmail.com"><img src="https://img.shields.io/badge/-Email-000?style=flat&logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
-**Languages**:  
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+### 🌐 Languages
+![HTML5](https://img.shields.io/badge/-HTML5-000?style=flat&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/-CSS3-000?style=flat&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python)
 
-**Frameworks & Libraries**:  
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+### ⚛️ Frontend Frameworks
+![React](https://img.shields.io/badge/-React-000?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat&logo=next.js)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?style=flat&logo=tailwind-css)
 
-**Automation & DevOps**:  
-![n8n](https://img.shields.io/badge/n8n-ef6c00?style=flat&logo=n8n&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-![Make.com](https://img.shields.io/badge/Make.com-purple?style=flat)
+### ⚙️ Automation & Tools
+![n8n](https://img.shields.io/badge/-n8n-000?style=flat&logo=n8n&logoColor=EF6C00)
+![Make](https://img.shields.io/badge/-Make.com-000?style=flat&logo=make&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-000?style=flat&logo=github-actions&logoColor=2088FF)
+![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git)
 
-**Infra & Hosting**:  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat&logo=digitalocean&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-269539?style=flat&logo=nginx&logoColor=white)
+### ☁️ Cloud / Hosting
+![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-000?style=flat&logo=digitalocean)
+![AWS](https://img.shields.io/badge/-AWS-000?style=flat&logo=amazon-aws)
+![Nginx](https://img.shields.io/badge/-Nginx-000?style=flat&logo=nginx)
 
-**Testing**:  
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
-
----
-
-## 📌 Featured Project
-
-### 🔧 [FAQ Generator](https://github.com/rjc0des/faq-generator)
-> A Next.js + Supabase-powered tool to generate product FAQs automatically using AI  
-Features:
-- Supabase Auth + DB
-- Dynamic form UI with ShadCN
-- Stripe integration via LemonSqueezy
-- Production-ready architecture
+### 🧪 Testing
+![Jest](https://img.shields.io/badge/-Jest-000?style=flat&logo=jest)
 
 ---
 
-## 🧠 Project Ideas In Progress
-I'm currently building and open-sourcing:
-- 🧾 **AI Proposal Generator** — Automates pitch and proposal writing
-- 🔧 **GitHub Workflow UI Builder** — Drag-and-drop GitHub Actions editor
-- 📋 **Job Tracker** — Tracks job applications with LinkedIn data integration
+## 🚀 Featured Project
 
-> ✅ Follow me to get updates as these go live
+### 🧠 [FAQ Generator](https://github.com/rjc0des/faq-generator)
+> A smart AI-powered tool that generates product FAQs instantly  
+Built with **Next.js**, **Supabase**, **LemonSqueezy**, and **ShadCN UI**
 
----
-
-## 📈 GitHub Stats
-
-![rjc0des's GitHub stats](https://github-readme-stats.vercel.app/api?username=rjc0des&show_icons=true&theme=default&hide_rank=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rjc0des&layout=compact)
+✔️ Authentication  
+✔️ AI Prompt-based Generation  
+✔️ Stripe Subscription Integration  
+✔️ Fully tested and hosted
 
 ---
 
-## 🤝 Let’s Connect
-📬 DM me for collaboration or freelance work opportunities.  
-<!--🌍 Open to remote roles or relocation across Europe.-->
+## 🧱 Currently Building
 
+- 🔧 **GitHub Workflow UI Builder** – Drag & drop GitHub Actions editor  
+- 🧾 **AI Proposal Generator** – Automates pitch/proposal creation  
+- 📋 **Job Tracker** – Parse & track job applications w/ LinkedIn support
+
+➡️ Stay tuned! Follow to get updates.
+
+---
+
+## 👀 What I Love
+- 💻 Clean, performant UI
+- 🔁 Reusable tools that save time
+- 🧩 Building automation that blends with daily dev work
+
+---
+
+## 🌍 Open To
+- 🌐 Remote roles across **Europe**
+- 🤝 Freelance collaborations
+- 🧠 Dev/product discussions on AI, UI, or tools
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rjc0des&show_icons=true&theme=dark&hide=issues" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjc0des&layout=compact&theme=dark" height="160" />
+</p>
+
+---
+
+<p align="center">Thanks for visiting — feel free to follow, fork, or reach out 👋</p>
