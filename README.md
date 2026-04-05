@@ -1,6 +1,6 @@
 # 👋 Hi, I'm **Rohith Jayaraj**
 
-🚀 Frontend Developer | 🎯 Focused on speed, automation & clean UI  
+🚀 Web Developer | Devops | 🎯 Focused on speed, automation & clean UI  
 💼 [Portfolio](https://rohith-jayaraj.vercel.app) | 📫 [LinkedIn](https://linkedin.com/in/rohithjayaraj)
 
 ---
