@@ -1,7 +1,7 @@
 <!-- Animated Header -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=200&section=header&text=Rohith%20Jayaraj&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=DevOps%20%7C%20Cloud%20%7C%20Observability&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=200&section=header&text=Rohith%20Jayaraj&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=DevOps%20%7C%20Cloud%20%7C%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
 
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+Reliable+Infrastructure;Automating+Cloud+Deployments;Exploring+Site+Reliability+Engineering;Monitoring+%7C+Observability+%7C+Automation" alt="Typing SVG" />
@@ -12,8 +12,6 @@
 <a href="https://linkedin.com/in/rohithjayaraj"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/rjc0des"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
-
-<img src="https://komarev.com/ghpvc/?username=rjc0des&style=flat-square&color=0EA5E9&label=PROFILE+VIEWS" />
 
 </div>
 
@@ -100,17 +98,24 @@ My background in software development helps me understand applications beyond de
 
 ## 📈 GitHub Analytics
 
+
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=rjc0des&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="180"
+    src="https://github-stats-extended.vercel.app/api?username=rjc0des&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    alt="Rohith's GitHub Statistics" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjc0des&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=rjc0des&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    alt="Most Used Languages" />
 
-<br/>
+  <br/>
 
-<img src="https://streak-stats.demolab.com?user=rjc0des&theme=tokyonight&hide_border=true" />
+  <img src="./profile/streak.svg"
+    alt="GitHub Contribution Streak" />
 
 </div>
+
 
 ## 🎯 Currently Exploring
 
